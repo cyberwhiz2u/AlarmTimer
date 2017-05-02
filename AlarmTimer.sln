@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmTimer", "AlarmTimer.csproj", "{F87FAE9F-432C-4090-8113-CFC90B578698}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{F87FAE9F-432C-4090-8113-CFC90B578698}.Debug.ActiveCfg = Debug|.NET
+		{F87FAE9F-432C-4090-8113-CFC90B578698}.Debug.Build.0 = Debug|.NET
+		{F87FAE9F-432C-4090-8113-CFC90B578698}.Release.ActiveCfg = Debug|.NET
+		{F87FAE9F-432C-4090-8113-CFC90B578698}.Release.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
